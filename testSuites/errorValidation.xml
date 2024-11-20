@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.example.testComponents.Listener"/>
+    </listeners>
+    <test name="E:/Selenium Learning/FrameworkRecap/src/test/java/codrea/ErrorTest.java">
+        <classes>
+            <class name="org.example.test.ErrorTest"/>
+        </classes>
+    </test>
+    </suite>
