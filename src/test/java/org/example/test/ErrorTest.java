@@ -1,7 +1,7 @@
 package org.example.test;
 
-import codrea.testComponents.BaseTest;
-import codrea.testComponents.Retry;
+import org.example.testComponents.BaseTest;
+import org.example.testComponents.Retry;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
